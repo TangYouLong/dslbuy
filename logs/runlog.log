@@ -1,0 +1,1277 @@
+2020-11-01 19:07:17,168 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:09:12,339 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:24:14,342 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:24:58,665 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:25:45,250 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:26:12,750 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:26:47,712 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:27:17,380 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:27:51,058 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:29:03,660 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:29:54,648 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:30:45,622 desired_caps.py[line:31] INFO start app...
+2020-11-01 19:32:25,268 desired_caps.py[line:31] INFO start app...
+2020-11-03 20:47:02,658 desired_caps.py[line:31] INFO start app...
+2020-11-03 20:50:01,680 desired_caps.py[line:31] INFO start app...
+2020-11-05 23:29:30,109 desired_caps.py[line:31] INFO start app...
+2020-11-05 23:30:23,057 desired_caps.py[line:31] INFO start app...
+2020-11-05 23:32:39,859 desired_caps.py[line:31] INFO start app...
+2020-11-05 23:34:18,037 desired_caps.py[line:31] INFO start app...
+2020-11-05 23:34:35,478 desired_caps.py[line:31] INFO start app...
+2020-11-07 20:07:15,020 desired_caps.py[line:31] INFO start app...
+2020-11-07 20:12:59,355 desired_caps.py[line:31] INFO start app...
+2020-11-07 20:13:14,292 login_view.py[line:12] INFO ======logging_action======
+2020-11-07 20:13:40,089 desired_caps.py[line:31] INFO start app...
+2020-11-07 20:13:55,259 login_view.py[line:12] INFO ======logging_action======
+2020-11-07 20:13:55,260 login_view.py[line:13] INFO username is :13432457764
+2020-11-08 03:14:49,461 desired_caps.py[line:31] INFO start app...
+2020-11-08 03:15:04,848 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 03:15:04,848 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 03:24:56,308 desired_caps.py[line:31] INFO start app...
+2020-11-08 03:25:11,662 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 03:25:11,662 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 03:32:04,557 desired_caps.py[line:31] INFO start app...
+2020-11-08 03:32:20,342 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 03:32:20,342 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 03:56:20,871 desired_caps.py[line:31] INFO start app...
+2020-11-08 03:56:35,416 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 03:56:35,416 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 03:59:04,412 desired_caps.py[line:31] INFO start app...
+2020-11-08 03:59:19,833 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 03:59:19,833 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 04:04:46,042 desired_caps.py[line:31] INFO start app...
+2020-11-08 04:05:01,121 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 04:05:01,122 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 04:05:02,272 login_view.py[line:31] INFO password is:1
+2020-11-08 04:05:03,292 login_view.py[line:34] INFO click login
+2020-11-08 04:11:29,387 desired_caps.py[line:31] INFO start app...
+2020-11-08 04:11:45,959 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 04:11:45,959 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 04:13:11,130 desired_caps.py[line:31] INFO start app...
+2020-11-08 04:13:27,341 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 04:13:27,341 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 04:13:28,113 login_view.py[line:31] INFO password is:1
+2020-11-08 04:13:29,709 login_view.py[line:34] INFO click login
+2020-11-08 04:15:37,535 desired_caps.py[line:31] INFO start app...
+2020-11-08 04:15:51,781 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 04:15:51,781 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 04:15:52,595 login_view.py[line:31] INFO password is:1
+2020-11-08 04:15:53,621 login_view.py[line:34] INFO click login
+2020-11-08 04:15:55,626 login_view.py[line:36] INFO login finished
+2020-11-08 18:02:35,573 desired_caps.py[line:31] INFO start app...
+2020-11-08 18:02:51,797 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 18:02:51,798 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 18:02:52,573 login_view.py[line:31] INFO password is:1
+2020-11-08 18:02:53,592 login_view.py[line:34] INFO click login
+2020-11-08 18:02:56,467 login_view.py[line:36] INFO login finished
+2020-11-08 18:29:12,044 desired_caps.py[line:31] INFO start app...
+2020-11-08 18:37:32,412 desired_caps.py[line:31] INFO start app...
+2020-11-08 18:37:48,773 login_view.py[line:27] INFO ======logging_action======
+2020-11-08 18:37:48,773 login_view.py[line:28] INFO username is :13432457764
+2020-11-08 18:37:50,182 login_view.py[line:31] INFO password is:1
+2020-11-08 18:37:51,208 login_view.py[line:34] INFO click login
+2020-11-08 18:37:53,321 login_view.py[line:36] INFO login finished
+2020-11-08 19:00:03,189 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:00:19,475 login_view.py[line:28] INFO ======logging_action======
+2020-11-08 19:00:19,475 login_view.py[line:29] INFO username is :13432457764
+2020-11-08 19:00:20,273 login_view.py[line:32] INFO password is:1
+2020-11-08 19:00:21,290 login_view.py[line:35] INFO click login
+2020-11-08 19:00:22,195 login_view.py[line:37] INFO login finished
+2020-11-08 19:01:01,800 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:01:18,099 login_view.py[line:28] INFO ======logging_action======
+2020-11-08 19:01:18,099 login_view.py[line:29] INFO username is :13432457764
+2020-11-08 19:01:18,856 login_view.py[line:32] INFO password is:1
+2020-11-08 19:01:20,344 login_view.py[line:35] INFO click login
+2020-11-08 19:01:20,846 login_view.py[line:37] INFO login finished
+2020-11-08 19:08:34,753 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:08:50,162 login_view.py[line:28] INFO ======logging_action======
+2020-11-08 19:08:50,162 login_view.py[line:29] INFO username is :13432457764
+2020-11-08 19:08:50,942 login_view.py[line:32] INFO password is:1
+2020-11-08 19:08:52,457 login_view.py[line:35] INFO click login
+2020-11-08 19:08:52,962 login_view.py[line:37] INFO login finished
+2020-11-08 19:16:27,960 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:16:42,723 login_view.py[line:28] INFO ======logging_action======
+2020-11-08 19:16:42,723 login_view.py[line:29] INFO username is :13432457764
+2020-11-08 19:16:44,038 login_view.py[line:32] INFO password is:1
+2020-11-08 19:16:45,059 login_view.py[line:35] INFO click login
+2020-11-08 19:16:45,563 login_view.py[line:37] INFO login finished
+2020-11-08 19:16:45,563 login_view.py[line:54] INFO ===check_advert===
+2020-11-08 19:16:47,076 login_view.py[line:60] INFO ===advert_close===
+2020-11-08 19:41:08,786 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:41:24,658 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 19:41:24,659 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 19:41:25,424 login_view.py[line:33] INFO password is:1
+2020-11-08 19:41:26,447 login_view.py[line:36] INFO click login
+2020-11-08 19:41:29,155 login_view.py[line:38] INFO login finished
+2020-11-08 19:41:29,155 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 19:41:29,172 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 19:45:03,306 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:45:18,251 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 19:45:18,252 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 19:45:19,024 login_view.py[line:33] INFO password is:1
+2020-11-08 19:45:20,166 login_view.py[line:36] INFO click login
+2020-11-08 19:45:20,677 login_view.py[line:38] INFO login finished
+2020-11-08 19:45:20,677 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 19:45:22,153 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 19:47:43,697 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:47:58,792 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 19:47:58,792 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 19:47:59,578 login_view.py[line:33] INFO password is:1
+2020-11-08 19:48:01,289 login_view.py[line:36] INFO click login
+2020-11-08 19:48:01,791 login_view.py[line:38] INFO login finished
+2020-11-08 19:48:01,792 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 19:48:03,471 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 19:49:45,991 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:50:00,641 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 19:50:00,641 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 19:50:02,077 login_view.py[line:33] INFO password is:1
+2020-11-08 19:50:03,091 login_view.py[line:36] INFO click login
+2020-11-08 19:50:03,593 login_view.py[line:38] INFO login finished
+2020-11-08 19:50:03,594 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 19:50:05,074 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 19:51:34,559 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:51:49,133 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 19:51:49,133 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 19:51:49,909 login_view.py[line:33] INFO password is:1
+2020-11-08 19:51:51,402 login_view.py[line:36] INFO click login
+2020-11-08 19:51:51,916 login_view.py[line:38] INFO login finished
+2020-11-08 19:51:51,916 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 19:51:53,420 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 19:53:42,734 desired_caps.py[line:31] INFO start app...
+2020-11-08 19:53:58,578 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 19:53:58,578 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 19:53:59,890 login_view.py[line:33] INFO password is:1
+2020-11-08 19:54:01,286 login_view.py[line:36] INFO click login
+2020-11-08 19:54:01,789 login_view.py[line:38] INFO login finished
+2020-11-08 19:54:01,789 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 19:54:03,286 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 20:39:24,875 desired_caps.py[line:31] INFO start app...
+2020-11-08 20:39:39,703 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 20:39:39,703 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 20:39:40,561 login_view.py[line:33] INFO password is:1
+2020-11-08 20:39:41,576 login_view.py[line:36] INFO click login
+2020-11-08 20:39:42,362 login_view.py[line:38] INFO login finished
+2020-11-08 20:39:42,363 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 20:39:44,205 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 20:40:47,324 desired_caps.py[line:31] INFO start app...
+2020-11-08 20:41:03,143 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 20:41:03,143 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 20:41:04,004 login_view.py[line:33] INFO password is:1
+2020-11-08 20:41:05,027 login_view.py[line:36] INFO click login
+2020-11-08 20:41:05,884 login_view.py[line:38] INFO login finished
+2020-11-08 20:41:05,884 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 20:41:07,456 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 20:47:25,966 desired_caps.py[line:31] INFO start app...
+2020-11-08 20:47:41,605 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 20:47:41,605 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 20:47:42,375 login_view.py[line:33] INFO password is:1
+2020-11-08 20:47:43,396 login_view.py[line:36] INFO click login
+2020-11-08 20:47:43,906 login_view.py[line:38] INFO login finished
+2020-11-08 20:47:43,906 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 20:47:45,585 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 20:51:56,137 desired_caps.py[line:31] INFO start app...
+2020-11-08 20:52:10,829 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 20:52:10,829 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 20:52:12,140 login_view.py[line:33] INFO password is:1
+2020-11-08 20:52:13,159 login_view.py[line:36] INFO click login
+2020-11-08 20:52:13,665 login_view.py[line:38] INFO login finished
+2020-11-08 20:52:13,665 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 20:52:15,253 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 20:55:11,193 desired_caps.py[line:31] INFO start app...
+2020-11-08 20:55:25,746 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 20:55:25,746 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 20:55:26,504 login_view.py[line:33] INFO password is:1
+2020-11-08 20:55:27,855 login_view.py[line:36] INFO click login
+2020-11-08 20:55:28,363 login_view.py[line:38] INFO login finished
+2020-11-08 20:55:28,363 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 20:55:29,871 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:01:41,397 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:01:56,273 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:01:56,273 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:01:57,043 login_view.py[line:33] INFO password is:1
+2020-11-08 21:01:58,324 login_view.py[line:36] INFO click login
+2020-11-08 21:01:58,828 login_view.py[line:38] INFO login finished
+2020-11-08 21:01:58,828 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:02:00,396 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:03:08,874 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:03:24,136 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:03:24,137 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:03:24,904 login_view.py[line:33] INFO password is:1
+2020-11-08 21:03:25,925 login_view.py[line:36] INFO click login
+2020-11-08 21:03:26,710 login_view.py[line:38] INFO login finished
+2020-11-08 21:03:26,710 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:03:28,331 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:04:29,732 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:04:45,531 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:04:45,531 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:04:46,307 login_view.py[line:33] INFO password is:1
+2020-11-08 21:04:47,604 login_view.py[line:36] INFO click login
+2020-11-08 21:04:48,117 login_view.py[line:38] INFO login finished
+2020-11-08 21:04:48,117 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:04:50,012 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:07:04,042 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:07:20,426 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:07:20,426 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:07:21,206 login_view.py[line:33] INFO password is:1
+2020-11-08 21:07:22,224 login_view.py[line:36] INFO click login
+2020-11-08 21:07:23,131 login_view.py[line:38] INFO login finished
+2020-11-08 21:07:23,131 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:07:24,771 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:07:59,326 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:08:15,388 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:08:15,388 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:08:16,179 login_view.py[line:33] INFO password is:1
+2020-11-08 21:08:17,190 login_view.py[line:36] INFO click login
+2020-11-08 21:08:18,124 login_view.py[line:38] INFO login finished
+2020-11-08 21:08:18,124 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:08:19,857 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:24:21,187 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:24:36,078 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:24:36,078 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:24:36,855 login_view.py[line:33] INFO password is:1
+2020-11-08 21:24:37,876 login_view.py[line:36] INFO click login
+2020-11-08 21:24:38,377 login_view.py[line:38] INFO login finished
+2020-11-08 21:24:38,377 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:24:40,271 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:30:39,940 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:30:55,697 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:30:55,697 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:30:56,455 login_view.py[line:33] INFO password is:1
+2020-11-08 21:30:57,630 login_view.py[line:36] INFO click login
+2020-11-08 21:30:58,145 login_view.py[line:38] INFO login finished
+2020-11-08 21:30:58,146 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:30:59,723 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:36:09,072 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:36:24,907 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:36:24,907 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:36:25,674 login_view.py[line:33] INFO password is:1
+2020-11-08 21:36:27,088 login_view.py[line:36] INFO click login
+2020-11-08 21:36:27,605 login_view.py[line:38] INFO login finished
+2020-11-08 21:36:27,605 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:36:29,156 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:40:29,809 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:40:44,671 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:40:44,671 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:40:45,458 login_view.py[line:33] INFO password is:1
+2020-11-08 21:40:46,479 login_view.py[line:36] INFO click login
+2020-11-08 21:40:47,328 login_view.py[line:38] INFO login finished
+2020-11-08 21:40:47,328 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:40:49,026 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:42:31,155 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:42:46,316 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:42:46,316 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:42:47,088 login_view.py[line:33] INFO password is:1
+2020-11-08 21:42:48,293 login_view.py[line:36] INFO click login
+2020-11-08 21:42:48,795 login_view.py[line:38] INFO login finished
+2020-11-08 21:42:48,795 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:42:50,310 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:46:22,690 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:46:37,957 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:46:37,957 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:46:38,720 login_view.py[line:33] INFO password is:1
+2020-11-08 21:46:40,121 login_view.py[line:36] INFO click login
+2020-11-08 21:46:40,627 login_view.py[line:38] INFO login finished
+2020-11-08 21:46:40,628 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:46:42,207 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:47:03,014 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:47:18,952 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:47:18,952 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:47:19,738 login_view.py[line:33] INFO password is:1
+2020-11-08 21:47:21,309 login_view.py[line:36] INFO click login
+2020-11-08 21:47:21,814 login_view.py[line:38] INFO login finished
+2020-11-08 21:47:21,814 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:47:23,775 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 21:49:08,145 desired_caps.py[line:31] INFO start app...
+2020-11-08 21:49:23,361 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 21:49:23,362 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 21:49:24,123 login_view.py[line:33] INFO password is:1
+2020-11-08 21:49:25,141 login_view.py[line:36] INFO click login
+2020-11-08 21:49:25,642 login_view.py[line:38] INFO login finished
+2020-11-08 21:49:25,642 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 21:49:27,237 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 22:17:39,878 desired_caps.py[line:31] INFO start app...
+2020-11-08 22:17:55,198 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 22:17:55,199 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 22:17:55,979 login_view.py[line:33] INFO password is:1
+2020-11-08 22:17:57,487 login_view.py[line:36] INFO click login
+2020-11-08 22:17:57,997 login_view.py[line:38] INFO login finished
+2020-11-08 22:17:57,997 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 22:17:59,657 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 22:38:15,199 desired_caps.py[line:31] INFO start app...
+2020-11-08 22:38:30,138 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 22:38:30,138 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 22:38:30,923 login_view.py[line:33] INFO password is:1
+2020-11-08 22:38:32,407 login_view.py[line:36] INFO click login
+2020-11-08 22:38:32,909 login_view.py[line:38] INFO login finished
+2020-11-08 22:38:32,909 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 22:38:34,463 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 22:52:10,515 desired_caps.py[line:31] INFO start app...
+2020-11-08 22:52:25,606 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 22:52:25,606 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 22:52:26,379 login_view.py[line:34] INFO password is:1
+2020-11-08 22:52:27,694 login_view.py[line:37] INFO click login
+2020-11-08 22:52:28,205 login_view.py[line:39] INFO login finished
+2020-11-08 22:52:28,205 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 22:52:30,040 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 22:54:10,452 desired_caps.py[line:31] INFO start app...
+2020-11-08 22:54:25,105 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 22:54:25,105 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 22:54:25,888 login_view.py[line:34] INFO password is:1
+2020-11-08 22:54:27,246 login_view.py[line:37] INFO click login
+2020-11-08 22:54:27,747 login_view.py[line:39] INFO login finished
+2020-11-08 22:54:27,747 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 22:54:29,478 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 22:56:17,786 desired_caps.py[line:31] INFO start app...
+2020-11-08 22:56:32,553 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 22:56:32,553 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 22:56:33,341 login_view.py[line:34] INFO password is:1
+2020-11-08 22:56:34,533 login_view.py[line:37] INFO click login
+2020-11-08 22:56:36,521 login_view.py[line:39] INFO login finished
+2020-11-08 22:56:36,521 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 22:56:36,530 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 22:57:23,321 desired_caps.py[line:31] INFO start app...
+2020-11-08 22:58:08,382 desired_caps.py[line:31] INFO start app...
+2020-11-08 22:58:23,800 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 22:58:23,800 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 22:58:24,597 login_view.py[line:34] INFO password is:1
+2020-11-08 22:58:26,157 login_view.py[line:37] INFO click login
+2020-11-08 22:58:26,665 login_view.py[line:39] INFO login finished
+2020-11-08 22:58:26,666 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 22:58:28,660 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 22:59:18,856 desired_caps.py[line:31] INFO start app...
+2020-11-08 22:59:35,146 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 22:59:35,147 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 22:59:35,905 login_view.py[line:34] INFO password is:1
+2020-11-08 22:59:36,924 login_view.py[line:37] INFO click login
+2020-11-08 22:59:39,094 login_view.py[line:39] INFO login finished
+2020-11-08 22:59:39,094 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 22:59:39,105 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:00:06,740 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:00:22,447 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:00:22,447 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:00:23,808 login_view.py[line:34] INFO password is:1
+2020-11-08 23:00:24,822 login_view.py[line:37] INFO click login
+2020-11-08 23:00:25,325 login_view.py[line:39] INFO login finished
+2020-11-08 23:00:25,325 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:00:26,870 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:04:55,317 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:05:10,282 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:05:10,282 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:05:11,054 login_view.py[line:34] INFO password is:1
+2020-11-08 23:05:12,465 login_view.py[line:37] INFO click login
+2020-11-08 23:05:14,505 login_view.py[line:39] INFO login finished
+2020-11-08 23:05:14,505 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:05:14,517 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:08:54,928 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:09:09,618 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:09:09,618 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:09:10,824 login_view.py[line:34] INFO password is:1
+2020-11-08 23:09:11,840 login_view.py[line:37] INFO click login
+2020-11-08 23:09:12,343 login_view.py[line:39] INFO login finished
+2020-11-08 23:09:12,344 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:09:13,891 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:10:38,066 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:10:52,890 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:10:52,890 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:10:53,655 login_view.py[line:34] INFO password is:1
+2020-11-08 23:10:54,674 login_view.py[line:37] INFO click login
+2020-11-08 23:10:55,178 login_view.py[line:39] INFO login finished
+2020-11-08 23:10:55,178 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:10:56,808 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:11:25,954 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:11:42,362 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:11:42,362 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:11:43,121 login_view.py[line:34] INFO password is:1
+2020-11-08 23:11:44,686 login_view.py[line:37] INFO click login
+2020-11-08 23:11:45,189 login_view.py[line:39] INFO login finished
+2020-11-08 23:11:45,189 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:11:47,308 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:12:27,769 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:12:42,438 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:12:42,438 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:12:43,220 login_view.py[line:34] INFO password is:1
+2020-11-08 23:12:44,240 login_view.py[line:37] INFO click login
+2020-11-08 23:12:44,880 login_view.py[line:39] INFO login finished
+2020-11-08 23:12:44,880 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:12:46,502 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:15:23,586 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:15:38,529 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:15:38,529 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:15:39,625 login_view.py[line:34] INFO password is:1
+2020-11-08 23:15:40,640 login_view.py[line:37] INFO click login
+2020-11-08 23:15:42,702 login_view.py[line:39] INFO login finished
+2020-11-08 23:15:42,702 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:15:42,717 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:16:26,777 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:16:42,832 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:16:42,832 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:16:43,606 login_view.py[line:34] INFO password is:1
+2020-11-08 23:16:44,889 login_view.py[line:37] INFO click login
+2020-11-08 23:16:46,886 login_view.py[line:39] INFO login finished
+2020-11-08 23:16:46,886 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:16:46,896 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:17:11,701 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:17:26,601 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:17:26,601 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:17:27,372 login_view.py[line:34] INFO password is:1
+2020-11-08 23:17:28,755 login_view.py[line:37] INFO click login
+2020-11-08 23:17:30,767 login_view.py[line:39] INFO login finished
+2020-11-08 23:17:30,767 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:17:30,778 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:26:12,903 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:26:28,188 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:26:28,188 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:26:28,957 login_view.py[line:34] INFO password is:1
+2020-11-08 23:26:30,131 login_view.py[line:37] INFO click login
+2020-11-08 23:26:32,253 login_view.py[line:39] INFO login finished
+2020-11-08 23:26:32,253 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:26:32,267 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:28:04,918 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:28:20,013 login_view.py[line:30] INFO ======logging_action======
+2020-11-08 23:28:20,013 login_view.py[line:31] INFO username is :13432457764
+2020-11-08 23:28:20,771 login_view.py[line:34] INFO password is:1
+2020-11-08 23:28:21,980 login_view.py[line:37] INFO click login
+2020-11-08 23:28:22,489 login_view.py[line:39] INFO login finished
+2020-11-08 23:28:22,489 login_view.py[line:60] INFO ===check_advert===
+2020-11-08 23:28:24,125 login_view.py[line:66] INFO ===advert_close===
+2020-11-08 23:44:45,065 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:45:02,064 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 23:45:02,064 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 23:45:02,839 login_view.py[line:33] INFO password is:1
+2020-11-08 23:45:03,855 login_view.py[line:36] INFO click login
+2020-11-08 23:45:04,528 login_view.py[line:38] INFO login finished
+2020-11-08 23:45:04,528 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 23:45:06,224 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 23:52:59,683 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:53:14,948 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 23:53:14,948 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 23:53:15,872 login_view.py[line:33] INFO password is:1
+2020-11-08 23:53:16,884 login_view.py[line:36] INFO click login
+2020-11-08 23:53:17,404 login_view.py[line:38] INFO login finished
+2020-11-08 23:53:17,405 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 23:53:19,136 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 23:54:55,779 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:55:10,916 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 23:55:10,916 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 23:55:12,256 login_view.py[line:33] INFO password is:1
+2020-11-08 23:55:13,276 login_view.py[line:36] INFO click login
+2020-11-08 23:55:15,274 login_view.py[line:38] INFO login finished
+2020-11-08 23:55:15,274 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 23:55:15,287 login_view.py[line:65] INFO ===advert_close===
+2020-11-08 23:58:42,155 desired_caps.py[line:31] INFO start app...
+2020-11-08 23:58:57,992 login_view.py[line:29] INFO ======logging_action======
+2020-11-08 23:58:57,992 login_view.py[line:30] INFO username is :13432457764
+2020-11-08 23:58:58,771 login_view.py[line:33] INFO password is:1
+2020-11-08 23:59:00,060 login_view.py[line:36] INFO click login
+2020-11-08 23:59:00,559 login_view.py[line:38] INFO login finished
+2020-11-08 23:59:00,559 login_view.py[line:59] INFO ===check_advert===
+2020-11-08 23:59:02,123 login_view.py[line:65] INFO ===advert_close===
+2020-11-09 00:01:57,989 desired_caps.py[line:31] INFO start app...
+2020-11-09 00:02:12,911 login_view.py[line:29] INFO ======logging_action======
+2020-11-09 00:02:12,911 login_view.py[line:30] INFO username is :13432457764
+2020-11-09 00:02:13,690 login_view.py[line:33] INFO password is:1
+2020-11-09 00:02:15,093 login_view.py[line:36] INFO click login
+2020-11-09 00:02:17,201 login_view.py[line:38] INFO login finished
+2020-11-09 00:02:17,202 login_view.py[line:59] INFO ===check_advert===
+2020-11-09 00:02:17,210 login_view.py[line:65] INFO ===advert_close===
+2020-11-09 00:03:29,389 desired_caps.py[line:31] INFO start app...
+2020-11-09 00:03:45,854 login_view.py[line:29] INFO ======logging_action======
+2020-11-09 00:03:45,855 login_view.py[line:30] INFO username is :13432457764
+2020-11-09 00:03:46,622 login_view.py[line:33] INFO password is:1
+2020-11-09 00:03:48,239 login_view.py[line:36] INFO click login
+2020-11-09 00:03:48,747 login_view.py[line:38] INFO login finished
+2020-11-09 00:03:48,747 login_view.py[line:59] INFO ===check_advert===
+2020-11-09 00:03:50,468 login_view.py[line:65] INFO ===advert_close===
+2020-11-09 00:04:24,565 desired_caps.py[line:31] INFO start app...
+2020-11-09 00:04:39,698 login_view.py[line:29] INFO ======logging_action======
+2020-11-09 00:04:39,698 login_view.py[line:30] INFO username is :13432457764
+2020-11-09 00:04:40,456 login_view.py[line:33] INFO password is:1
+2020-11-09 00:04:41,477 login_view.py[line:36] INFO click login
+2020-11-09 00:04:41,984 login_view.py[line:38] INFO login finished
+2020-11-09 00:04:41,985 login_view.py[line:59] INFO ===check_advert===
+2020-11-09 00:04:44,176 login_view.py[line:65] INFO ===advert_close===
+2020-11-10 20:50:35,383 desired_caps.py[line:31] INFO start app...
+2020-11-10 20:50:50,771 login_view.py[line:29] INFO ======logging_action======
+2020-11-10 20:50:50,771 login_view.py[line:30] INFO username is :13432457764
+2020-11-10 20:50:51,561 login_view.py[line:33] INFO password is:1
+2020-11-10 20:50:53,561 login_view.py[line:36] INFO click login
+2020-11-10 20:50:54,062 login_view.py[line:38] INFO login finished
+2020-11-10 20:50:54,063 login_view.py[line:59] INFO ===check_advert===
+2020-11-10 20:50:56,384 login_view.py[line:65] INFO ===advert_close===
+2020-11-10 21:09:39,891 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:09:54,640 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:09:54,641 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:09:55,408 login_view.py[line:34] INFO password is:1
+2020-11-10 21:09:56,433 login_view.py[line:37] INFO click login
+2020-11-10 21:09:58,816 login_view.py[line:39] INFO login finished
+2020-11-10 21:09:58,816 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:09:58,825 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:10:57,144 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:11:12,222 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:11:12,222 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:11:12,993 login_view.py[line:34] INFO password is:1
+2020-11-10 21:11:14,011 login_view.py[line:37] INFO click login
+2020-11-10 21:11:14,515 login_view.py[line:39] INFO login finished
+2020-11-10 21:11:14,515 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:11:15,972 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:13:18,192 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:13:33,838 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:13:33,839 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:13:34,643 login_view.py[line:34] INFO password is:1
+2020-11-10 21:13:35,863 login_view.py[line:37] INFO click login
+2020-11-10 21:13:36,366 login_view.py[line:39] INFO login finished
+2020-11-10 21:13:36,366 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:13:37,809 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:14:49,907 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:15:05,015 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:15:05,015 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:15:05,808 login_view.py[line:34] INFO password is:1
+2020-11-10 21:15:06,827 login_view.py[line:37] INFO click login
+2020-11-10 21:15:07,716 login_view.py[line:39] INFO login finished
+2020-11-10 21:15:07,717 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:15:09,242 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:15:41,904 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:15:57,111 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:15:57,111 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:15:58,409 login_view.py[line:34] INFO password is:1
+2020-11-10 21:15:59,428 login_view.py[line:37] INFO click login
+2020-11-10 21:15:59,934 login_view.py[line:39] INFO login finished
+2020-11-10 21:15:59,934 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:16:01,498 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:18:32,916 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:18:46,866 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:18:46,866 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:18:48,208 login_view.py[line:34] INFO password is:1
+2020-11-10 21:18:49,746 login_view.py[line:37] INFO click login
+2020-11-10 21:18:50,251 login_view.py[line:39] INFO login finished
+2020-11-10 21:18:50,251 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:18:51,728 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:24:18,511 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:24:34,922 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:24:34,922 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:24:35,725 login_view.py[line:34] INFO password is:1
+2020-11-10 21:24:37,169 login_view.py[line:37] INFO click login
+2020-11-10 21:24:37,675 login_view.py[line:39] INFO login finished
+2020-11-10 21:24:37,675 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:24:39,272 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:25:27,900 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:25:43,613 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:25:43,613 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:25:44,428 login_view.py[line:34] INFO password is:1
+2020-11-10 21:25:45,670 login_view.py[line:37] INFO click login
+2020-11-10 21:25:46,182 login_view.py[line:39] INFO login finished
+2020-11-10 21:25:46,182 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:25:47,639 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:26:09,417 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:26:25,175 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:26:25,175 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:26:25,961 login_view.py[line:34] INFO password is:1
+2020-11-10 21:26:27,272 login_view.py[line:37] INFO click login
+2020-11-10 21:26:27,784 login_view.py[line:39] INFO login finished
+2020-11-10 21:26:27,784 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:26:29,325 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:27:32,292 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:27:46,360 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:27:46,360 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:27:47,148 login_view.py[line:34] INFO password is:1
+2020-11-10 21:27:48,420 login_view.py[line:37] INFO click login
+2020-11-10 21:27:48,933 login_view.py[line:39] INFO login finished
+2020-11-10 21:27:48,934 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:27:50,395 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:27:56,143 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:27:56,143 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:31:03,278 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:31:18,546 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:31:18,546 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:31:19,311 login_view.py[line:34] INFO password is:1
+2020-11-10 21:31:20,766 login_view.py[line:37] INFO click login
+2020-11-10 21:31:21,273 login_view.py[line:39] INFO login finished
+2020-11-10 21:31:21,273 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 21:31:22,713 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 21:31:28,453 desired_caps.py[line:31] INFO start app...
+2020-11-10 21:31:43,847 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 21:31:43,847 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 21:31:44,627 login_view.py[line:34] INFO password is:1
+2020-11-10 21:31:46,201 login_view.py[line:37] INFO click login
+2020-11-10 21:31:46,707 login_view.py[line:39] INFO login finished
+2020-11-10 22:14:19,106 desired_caps.py[line:31] INFO start app...
+2020-11-10 22:14:33,492 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 22:14:33,492 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 22:14:34,292 login_view.py[line:34] INFO password is:1
+2020-11-10 22:14:35,311 login_view.py[line:37] INFO click login
+2020-11-10 22:14:36,314 login_view.py[line:39] INFO login finished
+2020-11-10 22:14:36,314 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 22:14:37,890 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 22:14:43,602 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 22:14:43,602 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 22:15:37,172 desired_caps.py[line:31] INFO start app...
+2020-11-10 22:15:52,604 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 22:15:52,604 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 22:15:53,808 login_view.py[line:34] INFO password is:1
+2020-11-10 22:15:54,828 login_view.py[line:37] INFO click login
+2020-11-10 22:15:55,338 login_view.py[line:39] INFO login finished
+2020-11-10 22:15:55,338 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 22:15:56,842 login_view.py[line:66] INFO ===advert_close===
+2020-11-10 22:16:02,636 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 22:16:02,636 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 22:18:05,169 desired_caps.py[line:31] INFO start app...
+2020-11-10 22:18:19,317 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 22:18:19,317 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 22:18:20,077 login_view.py[line:34] INFO password is:1
+2020-11-10 22:18:21,095 login_view.py[line:37] INFO click login
+2020-11-10 22:18:21,607 login_view.py[line:39] INFO login finished
+2020-11-10 22:18:21,607 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 22:19:41,482 desired_caps.py[line:31] INFO start app...
+2020-11-10 22:19:56,264 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 22:19:56,264 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 23:19:47,696 desired_caps.py[line:31] INFO start app...
+2020-11-10 23:20:05,422 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 23:20:05,422 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 23:20:06,227 login_view.py[line:34] INFO password is:1
+2020-11-10 23:20:07,245 login_view.py[line:37] INFO click login
+2020-11-10 23:20:09,822 login_view.py[line:39] INFO login finished
+2020-11-10 23:20:09,823 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 23:20:18,011 login_view.py[line:46] INFO ===check_update===
+2020-11-10 23:26:44,598 desired_caps.py[line:31] INFO start app...
+2020-11-10 23:27:02,149 desired_caps.py[line:31] INFO start app...
+2020-11-10 23:27:45,488 desired_caps.py[line:31] INFO start app...
+2020-11-10 23:28:16,177 desired_caps.py[line:31] INFO start app...
+2020-11-10 23:28:32,279 login_view.py[line:30] INFO ======logging_action======
+2020-11-10 23:28:32,279 login_view.py[line:31] INFO username is :13432457764
+2020-11-10 23:28:33,059 login_view.py[line:34] INFO password is:1
+2020-11-10 23:28:34,417 login_view.py[line:37] INFO click login
+2020-11-10 23:28:36,837 login_view.py[line:39] INFO login finished
+2020-11-10 23:28:36,837 login_view.py[line:60] INFO ===check_advert===
+2020-11-10 23:28:45,044 login_view.py[line:46] INFO ===check_update===
+2020-11-14 16:52:08,872 desired_caps.py[line:31] INFO start app...
+2020-11-14 16:52:52,790 login_view.py[line:30] INFO ======logging_action======
+2020-11-14 16:52:52,791 login_view.py[line:31] INFO username is :13432457764
+2020-11-14 16:52:53,622 login_view.py[line:34] INFO password is:1
+2020-11-14 16:52:54,642 login_view.py[line:37] INFO click login
+2020-11-14 16:52:55,152 login_view.py[line:39] INFO login finished
+2020-11-14 16:52:55,152 login_view.py[line:60] INFO ===check_advert===
+2020-11-14 16:53:03,290 login_view.py[line:46] INFO ===check_update===
+2020-11-14 16:53:17,523 desired_caps.py[line:31] INFO start app...
+2020-11-14 16:53:36,096 login_view.py[line:30] INFO ======logging_action======
+2020-11-14 16:53:36,096 login_view.py[line:31] INFO username is :13432457764
+2020-11-14 16:53:36,927 login_view.py[line:34] INFO password is:1
+2020-11-14 16:53:37,943 login_view.py[line:37] INFO click login
+2020-11-14 16:53:39,774 login_view.py[line:39] INFO login finished
+2020-11-14 16:53:39,774 login_view.py[line:60] INFO ===check_advert===
+2020-11-14 16:53:48,104 login_view.py[line:46] INFO ===check_update===
+2020-11-14 16:54:29,546 desired_caps.py[line:31] INFO start app...
+2020-11-14 16:54:47,015 login_view.py[line:30] INFO ======logging_action======
+2020-11-14 16:54:47,015 login_view.py[line:31] INFO username is :13432457764
+2020-11-14 16:54:47,857 login_view.py[line:34] INFO password is:1
+2020-11-14 16:54:48,874 login_view.py[line:37] INFO click login
+2020-11-14 16:54:51,239 login_view.py[line:39] INFO login finished
+2020-11-14 16:54:51,239 login_view.py[line:60] INFO ===check_advert===
+2020-11-14 16:54:59,570 login_view.py[line:46] INFO ===check_update===
+2020-11-14 16:55:55,685 desired_caps.py[line:31] INFO start app...
+2020-11-14 16:56:13,231 login_view.py[line:31] INFO ======logging_action======
+2020-11-14 16:56:13,231 login_view.py[line:32] INFO username is :13432457764
+2020-11-14 16:56:14,056 login_view.py[line:35] INFO password is:1
+2020-11-14 16:56:15,075 login_view.py[line:38] INFO click login
+2020-11-14 16:56:16,922 login_view.py[line:40] INFO login finished
+2020-11-14 16:56:16,922 login_view.py[line:62] INFO ===check_advert===
+2020-11-14 16:56:37,966 login_view.py[line:47] INFO ===check_update===
+2020-11-14 17:00:12,807 desired_caps.py[line:31] INFO start app...
+2020-11-14 17:00:31,659 login_view.py[line:31] INFO ======logging_action======
+2020-11-14 17:00:31,659 login_view.py[line:32] INFO username is :13432457764
+2020-11-14 17:00:32,457 login_view.py[line:35] INFO password is:1
+2020-11-14 17:00:33,475 login_view.py[line:38] INFO click login
+2020-11-14 17:00:33,977 login_view.py[line:40] INFO login finished
+2020-11-14 17:00:33,977 login_view.py[line:62] INFO ===check_advert===
+2020-11-14 17:00:42,041 login_view.py[line:47] INFO ===check_update===
+2020-11-14 17:05:30,183 desired_caps.py[line:31] INFO start app...
+2020-11-14 17:06:13,709 desired_caps.py[line:31] INFO start app...
+2020-11-14 17:06:30,329 login_view.py[line:31] INFO ======logging_action======
+2020-11-14 17:06:30,329 login_view.py[line:32] INFO username is :13432457764
+2020-11-14 17:06:31,156 login_view.py[line:35] INFO password is:1
+2020-11-14 17:06:32,179 login_view.py[line:38] INFO click login
+2020-11-14 17:06:32,678 login_view.py[line:40] INFO login finished
+2020-11-14 17:06:32,678 login_view.py[line:62] INFO ===check_advert===
+2020-11-14 17:06:40,764 login_view.py[line:47] INFO ===check_update===
+2020-11-14 22:07:25,283 desired_caps.py[line:31] INFO start app...
+2020-11-14 22:08:02,889 desired_caps.py[line:31] INFO start app...
+2020-11-14 22:08:33,066 desired_caps.py[line:31] INFO start app...
+2020-11-14 22:10:36,640 desired_caps.py[line:31] INFO start app...
+2020-11-14 22:10:54,716 login_view.py[line:31] INFO ======logging_action======
+2020-11-14 22:10:54,716 login_view.py[line:32] INFO username is :13432457764
+2020-11-14 22:10:55,663 login_view.py[line:35] INFO password is:1
+2020-11-14 22:10:56,686 login_view.py[line:38] INFO click login
+2020-11-14 22:10:58,298 login_view.py[line:40] INFO login finished
+2020-11-14 22:10:58,298 login_view.py[line:62] INFO ===check_advert===
+2020-11-14 22:11:06,500 login_view.py[line:47] INFO ===check_update===
+2020-11-14 22:12:52,974 desired_caps.py[line:31] INFO start app...
+2020-11-14 22:13:08,039 login_view.py[line:31] INFO ======logging_action======
+2020-11-14 22:13:08,040 login_view.py[line:32] INFO username is :13432457764
+2020-11-14 22:13:09,053 login_view.py[line:35] INFO password is:1
+2020-11-14 22:13:10,086 login_view.py[line:38] INFO click login
+2020-11-14 22:13:10,601 login_view.py[line:40] INFO login finished
+2020-11-14 22:13:10,601 login_view.py[line:47] INFO ===check_update===
+2020-11-14 22:13:19,784 login_view.py[line:62] INFO ===check_advert===
+2020-11-14 22:19:44,161 desired_caps.py[line:31] INFO start app...
+2020-11-14 22:19:58,568 login_view.py[line:31] INFO ======logging_action======
+2020-11-14 22:19:58,569 login_view.py[line:32] INFO username is :13432457764
+2020-11-14 22:19:59,530 login_view.py[line:35] INFO password is:1
+2020-11-14 22:20:00,561 login_view.py[line:38] INFO click login
+2020-11-14 22:20:01,067 login_view.py[line:40] INFO login finished
+2020-11-14 22:20:01,067 login_view.py[line:47] INFO ===check_update===
+2020-11-14 22:20:09,747 login_view.py[line:62] INFO ===check_advert===
+2020-11-14 22:21:41,906 desired_caps.py[line:31] INFO start app...
+2020-11-14 22:21:55,790 login_view.py[line:31] INFO ======logging_action======
+2020-11-14 22:21:55,790 login_view.py[line:32] INFO username is :13432457764
+2020-11-14 22:21:56,781 login_view.py[line:35] INFO password is:1
+2020-11-14 22:21:57,799 login_view.py[line:38] INFO click login
+2020-11-14 22:21:58,303 login_view.py[line:40] INFO login finished
+2020-11-14 22:21:58,303 login_view.py[line:47] INFO ===check_update===
+2020-11-14 22:22:07,221 login_view.py[line:62] INFO ===check_advert===
+2020-11-14 22:22:21,724 login_view.py[line:31] INFO ======logging_action======
+2020-11-14 22:22:21,724 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 15:40:00,626 myunit.py[line:8] INFO ===setUp===
+2020-11-15 15:40:00,629 desired_caps.py[line:31] INFO start app...
+2020-11-15 15:40:16,500 test_login.py[line:9] INFO ===test_login_administration===
+2020-11-15 15:40:16,500 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 15:40:16,500 login_view.py[line:32] INFO username is :15700741068
+2020-11-15 15:40:17,510 login_view.py[line:35] INFO password is:1
+2020-11-15 15:40:18,526 login_view.py[line:38] INFO click login
+2020-11-15 15:40:19,048 login_view.py[line:40] INFO login finished
+2020-11-15 15:40:19,048 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 15:41:42,840 myunit.py[line:8] INFO ===setUp===
+2020-11-15 15:41:42,844 desired_caps.py[line:31] INFO start app...
+2020-11-15 15:41:56,957 test_login.py[line:9] INFO ===test_login_administration===
+2020-11-15 15:41:56,957 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 15:41:56,958 login_view.py[line:32] INFO username is :15700741068
+2020-11-15 15:41:57,949 login_view.py[line:35] INFO password is:1
+2020-11-15 15:41:58,963 login_view.py[line:38] INFO click login
+2020-11-15 15:41:59,464 login_view.py[line:40] INFO login finished
+2020-11-15 15:42:07,370 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 15:42:07,370 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 15:42:15,713 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 15:44:02,341 myunit.py[line:8] INFO ===setUp===
+2020-11-15 15:44:02,343 desired_caps.py[line:31] INFO start app...
+2020-11-15 15:44:16,509 test_login.py[line:9] INFO ===test_login_administration===
+2020-11-15 15:44:16,509 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 15:44:16,510 login_view.py[line:32] INFO username is :15700741068
+2020-11-15 15:44:17,492 login_view.py[line:35] INFO password is:1
+2020-11-15 15:44:18,516 login_view.py[line:38] INFO click login
+2020-11-15 15:44:19,030 login_view.py[line:40] INFO login finished
+2020-11-15 15:44:27,437 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 15:57:46,066 desired_caps.py[line:31] INFO start app...
+2020-11-15 15:58:00,222 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 15:58:00,222 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 15:58:01,245 login_view.py[line:35] INFO password is:1
+2020-11-15 15:58:02,260 login_view.py[line:38] INFO click login
+2020-11-15 15:58:02,764 login_view.py[line:40] INFO login finished
+2020-11-15 15:58:02,765 login_view.py[line:47] INFO ===check_update===
+2020-11-15 15:58:08,607 login_view.py[line:62] INFO ===check_advert===
+2020-11-15 15:58:20,174 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 15:58:20,174 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 15:59:17,500 desired_caps.py[line:31] INFO start app...
+2020-11-15 15:59:32,630 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 15:59:32,630 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 15:59:33,661 login_view.py[line:35] INFO password is:1
+2020-11-15 15:59:34,678 login_view.py[line:38] INFO click login
+2020-11-15 15:59:35,188 login_view.py[line:40] INFO login finished
+2020-11-15 15:59:35,188 login_view.py[line:47] INFO ===check_update===
+2020-11-15 15:59:40,965 login_view.py[line:62] INFO ===check_advert===
+2020-11-15 15:59:52,228 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 15:59:52,228 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 16:02:35,780 myunit.py[line:8] INFO ===setUp===
+2020-11-15 16:02:35,783 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:02:51,300 test_login.py[line:9] INFO ===test_login_administration===
+2020-11-15 16:02:51,300 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 16:30:06,062 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:30:20,159 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:30:20,159 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 16:30:21,124 login_view.py[line:35] INFO password is:1
+2020-11-15 16:30:22,148 login_view.py[line:38] INFO click login
+2020-11-15 16:30:23,820 login_view.py[line:40] INFO login finished
+2020-11-15 16:30:23,820 login_view.py[line:47] INFO ===check_update===
+2020-11-15 16:30:29,078 login_view.py[line:62] INFO ===check_advert===
+2020-11-15 16:30:40,169 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:30:40,169 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 16:34:01,747 myunit.py[line:8] INFO ===setUp===
+2020-11-15 16:34:01,749 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:34:17,575 test_login.py[line:9] INFO ===test_login_administration===
+2020-11-15 16:34:17,576 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:34:17,576 login_view.py[line:32] INFO username is :15700741068
+2020-11-15 16:34:18,560 login_view.py[line:35] INFO password is:1
+2020-11-15 16:34:19,584 login_view.py[line:38] INFO click login
+2020-11-15 16:34:20,088 login_view.py[line:40] INFO login finished
+2020-11-15 16:34:28,436 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 16:34:33,970 myunit.py[line:8] INFO ===setUp===
+2020-11-15 16:34:33,972 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:34:49,404 test_login.py[line:15] INFO ===test_login_administration===
+2020-11-15 16:34:49,404 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:34:49,404 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 16:34:50,393 login_view.py[line:35] INFO password is:1
+2020-11-15 16:34:51,414 login_view.py[line:38] INFO click login
+2020-11-15 16:34:51,914 login_view.py[line:40] INFO login finished
+2020-11-15 16:34:51,914 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 16:36:28,875 myunit.py[line:8] INFO ===setUp===
+2020-11-15 16:36:28,877 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:36:41,865 test_login.py[line:9] INFO ===test_login_administration===
+2020-11-15 16:36:41,865 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:36:41,865 login_view.py[line:32] INFO username is :15700741068
+2020-11-15 16:36:47,255 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 16:36:52,839 myunit.py[line:8] INFO ===setUp===
+2020-11-15 16:36:52,842 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:37:06,816 test_login.py[line:15] INFO ===test_login_administration===
+2020-11-15 16:37:06,816 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:37:06,816 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 16:37:12,264 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 16:38:32,190 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:39:05,085 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:41:15,841 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:41:29,617 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:41:29,618 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 16:53:25,293 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:53:39,280 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:53:39,280 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 16:53:40,260 login_view.py[line:35] INFO password is:1
+2020-11-15 16:53:41,275 login_view.py[line:38] INFO click login
+2020-11-15 16:53:42,871 login_view.py[line:40] INFO login finished
+2020-11-15 16:53:42,871 login_view.py[line:47] INFO ===check_update===
+2020-11-15 16:53:48,286 login_view.py[line:62] INFO ===check_advert===
+2020-11-15 16:54:21,344 myunit.py[line:8] INFO ===setUp===
+2020-11-15 16:54:21,346 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:54:35,260 test_login.py[line:9] INFO ===test_login_administration===
+2020-11-15 16:54:35,260 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:54:35,260 login_view.py[line:32] INFO username is :15700741068
+2020-11-15 16:54:36,274 login_view.py[line:35] INFO password is:1
+2020-11-15 16:54:37,293 login_view.py[line:38] INFO click login
+2020-11-15 16:54:39,239 login_view.py[line:40] INFO login finished
+2020-11-15 16:54:44,569 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 16:54:50,249 myunit.py[line:8] INFO ===setUp===
+2020-11-15 16:54:50,251 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:55:03,446 test_login.py[line:15] INFO ===test_login_administration===
+2020-11-15 16:55:03,446 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:55:03,446 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 16:55:08,766 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 16:57:43,112 myunit.py[line:8] INFO ===setUp===
+2020-11-15 16:57:43,114 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:57:56,406 test_login.py[line:9] INFO ===test_login_administration===
+2020-11-15 16:57:56,406 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:57:56,406 login_view.py[line:32] INFO username is :15700741068
+2020-11-15 16:58:01,792 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 16:58:07,496 myunit.py[line:8] INFO ===setUp===
+2020-11-15 16:58:07,498 desired_caps.py[line:31] INFO start app...
+2020-11-15 16:58:21,362 test_login.py[line:17] INFO ===test_login_administration===
+2020-11-15 16:58:21,362 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 16:58:21,362 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 16:58:26,610 myunit.py[line:12] INFO ===tearDown===
+2020-11-15 17:00:56,539 desired_caps.py[line:31] INFO start app...
+2020-11-15 17:01:09,764 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 17:01:09,764 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 20:13:51,394 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:13:51,396 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:14:11,606 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:14:11,607 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:14:51,328 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:14:51,331 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:15:11,799 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:15:11,800 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:17:44,025 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:17:44,027 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:18:11,582 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:18:11,583 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:21:14,953 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:21:14,955 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:21:35,347 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:21:35,349 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:24:57,289 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:26:57,829 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:26:57,832 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:27:18,538 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 20:27:18,538 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 20:27:18,538 login_view.py[line:32] INFO username is :15700741068
+2020-11-15 20:27:19,548 login_view.py[line:35] INFO password is:1
+2020-11-15 20:27:20,568 login_view.py[line:38] INFO click login
+2020-11-15 20:27:21,722 login_view.py[line:40] INFO login finished
+2020-11-15 20:27:21,722 login_view.py[line:47] INFO ===check_update===
+2020-11-15 20:27:27,022 login_view.py[line:62] INFO ===check_advert===
+2020-11-15 20:27:32,422 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 20:27:38,073 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:27:38,075 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:27:53,367 test_login.py[line:18] INFO ===test_login_administration===
+2020-11-15 20:27:53,367 login_view.py[line:31] INFO ======logging_action======
+2020-11-15 20:27:53,367 login_view.py[line:32] INFO username is :13432457764
+2020-11-15 20:27:54,381 login_view.py[line:35] INFO password is:1
+2020-11-15 20:27:55,404 login_view.py[line:38] INFO click login
+2020-11-15 20:27:55,906 login_view.py[line:40] INFO login finished
+2020-11-15 20:27:55,906 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 20:58:25,191 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:58:25,193 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:58:34,221 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:58:34,223 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:59:33,483 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:59:33,485 desired_caps.py[line:31] INFO start app...
+2020-11-15 20:59:42,517 myunit.py[line:9] INFO ===setUp===
+2020-11-15 20:59:42,519 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:00:54,164 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:00:54,166 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:01:10,741 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:01:10,741 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:01:10,741 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:01:11,731 login_view.py[line:36] INFO password is:1
+2020-11-15 21:01:12,778 login_view.py[line:39] INFO click login
+2020-11-15 21:01:14,514 login_view.py[line:41] INFO login finished
+2020-11-15 21:01:14,514 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:01:19,874 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:01:19,875 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:01:25,114 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:01:25,114 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:01:30,721 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:01:30,724 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:01:44,231 test_login.py[line:18] INFO ===test_login_administration===
+2020-11-15 21:01:44,231 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:01:44,231 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:01:45,232 login_view.py[line:36] INFO password is:1
+2020-11-15 21:01:46,283 login_view.py[line:39] INFO click login
+2020-11-15 21:01:46,917 login_view.py[line:41] INFO login finished
+2020-11-15 21:01:46,917 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:02:02,740 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:02:02,742 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:02:16,172 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:02:16,172 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:02:16,172 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:02:17,164 login_view.py[line:36] INFO password is:1
+2020-11-15 21:02:18,280 login_view.py[line:39] INFO click login
+2020-11-15 21:02:18,914 login_view.py[line:41] INFO login finished
+2020-11-15 21:02:18,914 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:02:24,288 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:02:24,288 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:02:29,534 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:02:29,567 login_view.py[line:86] INFO ===battery_authorization===
+2020-11-15 21:02:29,694 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:02:35,210 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:02:35,211 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:03:17,348 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:05:19,016 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:05:33,494 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:05:33,494 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:05:34,431 login_view.py[line:36] INFO password is:1
+2020-11-15 21:05:35,465 login_view.py[line:39] INFO click login
+2020-11-15 21:05:36,111 login_view.py[line:41] INFO login finished
+2020-11-15 21:05:36,111 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:05:41,952 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:05:41,952 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:05:48,330 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:07:03,011 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:07:15,264 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:07:15,264 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:07:16,247 login_view.py[line:36] INFO password is:1
+2020-11-15 21:07:17,281 login_view.py[line:39] INFO click login
+2020-11-15 21:07:17,907 login_view.py[line:41] INFO login finished
+2020-11-15 21:07:17,907 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:07:23,596 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:07:23,596 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:07:30,077 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:07:36,322 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:07:36,322 login_view.py[line:33] INFO username is :1
+2020-11-15 21:07:38,263 login_view.py[line:36] INFO password is:1
+2020-11-15 21:07:39,302 login_view.py[line:39] INFO click login
+2020-11-15 21:07:39,933 login_view.py[line:41] INFO login finished
+2020-11-15 21:08:28,882 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:08:42,193 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:08:42,193 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:08:43,198 login_view.py[line:36] INFO password is:1
+2020-11-15 21:08:44,244 login_view.py[line:39] INFO click login
+2020-11-15 21:08:44,882 login_view.py[line:41] INFO login finished
+2020-11-15 21:08:44,882 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:08:50,249 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:08:50,249 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:08:56,271 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:09:03,294 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:09:03,294 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:09:05,230 login_view.py[line:36] INFO password is:1
+2020-11-15 21:09:06,256 login_view.py[line:39] INFO click login
+2020-11-15 21:09:06,888 login_view.py[line:41] INFO login finished
+2020-11-15 21:12:47,315 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:12:47,317 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:12:59,571 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:12:59,571 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:12:59,571 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:13:00,597 login_view.py[line:36] INFO password is:1
+2020-11-15 21:13:01,628 login_view.py[line:39] INFO click login
+2020-11-15 21:13:02,268 login_view.py[line:41] INFO login finished
+2020-11-15 21:13:02,268 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:13:07,677 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:13:07,677 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:13:13,682 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:13:19,629 login_view.py[line:83] INFO ===no_battery_authorization===
+2020-11-15 21:13:19,629 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:13:25,190 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:13:25,193 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:13:38,373 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:13:38,373 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:13:38,373 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:13:39,362 login_view.py[line:36] INFO password is:1
+2020-11-15 21:13:40,408 login_view.py[line:39] INFO click login
+2020-11-15 21:13:41,039 login_view.py[line:41] INFO login finished
+2020-11-15 21:13:41,039 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:14:12,868 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:14:12,871 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:14:27,535 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:14:27,538 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:14:39,627 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:14:39,627 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:14:39,627 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:14:40,615 login_view.py[line:36] INFO password is:1
+2020-11-15 21:14:41,645 login_view.py[line:39] INFO click login
+2020-11-15 21:14:42,280 login_view.py[line:41] INFO login finished
+2020-11-15 21:14:42,280 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:14:56,388 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:14:56,390 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:15:08,659 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:15:08,659 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:15:08,659 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:15:09,663 login_view.py[line:36] INFO password is:1
+2020-11-15 21:15:10,700 login_view.py[line:39] INFO click login
+2020-11-15 21:15:11,328 login_view.py[line:41] INFO login finished
+2020-11-15 21:15:11,328 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:15:17,043 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:15:17,044 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:15:23,470 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:15:28,692 login_view.py[line:83] INFO ===no_battery_authorization===
+2020-11-15 21:15:35,624 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:15:35,624 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:15:37,577 login_view.py[line:36] INFO password is:1
+2020-11-15 21:15:38,625 login_view.py[line:39] INFO click login
+2020-11-15 21:15:39,257 login_view.py[line:41] INFO login finished
+2020-11-15 21:15:39,257 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:15:41,861 login_view.py[line:55] INFO ===click update later===
+2020-11-15 21:15:46,981 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:15:48,443 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:15:53,948 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:15:53,950 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:16:06,320 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:16:06,321 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:16:06,321 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:16:07,346 login_view.py[line:36] INFO password is:1
+2020-11-15 21:16:08,379 login_view.py[line:39] INFO click login
+2020-11-15 21:16:09,014 login_view.py[line:41] INFO login finished
+2020-11-15 21:16:09,014 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:17:20,004 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:17:20,005 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:17:32,311 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:17:32,311 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:17:32,311 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:17:33,280 login_view.py[line:36] INFO password is:1
+2020-11-15 21:17:34,327 login_view.py[line:39] INFO click login
+2020-11-15 21:17:34,960 login_view.py[line:41] INFO login finished
+2020-11-15 21:17:34,961 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:17:40,825 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:17:40,825 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:17:47,199 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:17:52,398 login_view.py[line:83] INFO ===no_battery_authorization===
+2020-11-15 21:17:59,445 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:17:59,445 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:18:01,410 login_view.py[line:36] INFO password is:1
+2020-11-15 21:18:02,443 login_view.py[line:39] INFO click login
+2020-11-15 21:18:03,070 login_view.py[line:41] INFO login finished
+2020-11-15 21:18:03,070 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:18:08,715 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:18:08,717 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:18:21,964 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:18:21,964 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:18:21,965 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:18:22,967 login_view.py[line:36] INFO password is:1
+2020-11-15 21:18:24,005 login_view.py[line:39] INFO click login
+2020-11-15 21:18:24,639 login_view.py[line:41] INFO login finished
+2020-11-15 21:18:24,640 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:21:05,313 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:21:05,315 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:21:17,797 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:21:17,797 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:21:17,797 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:21:18,747 login_view.py[line:36] INFO password is:1
+2020-11-15 21:21:19,793 login_view.py[line:39] INFO click login
+2020-11-15 21:21:21,661 login_view.py[line:41] INFO login finished
+2020-11-15 21:21:21,661 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:21:27,079 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:21:27,079 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:21:32,521 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:21:37,865 login_view.py[line:83] INFO ===no_battery_authorization===
+2020-11-15 21:21:45,051 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:21:45,051 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:21:47,031 login_view.py[line:36] INFO password is:1
+2020-11-15 21:21:48,071 login_view.py[line:39] INFO click login
+2020-11-15 21:21:48,696 login_view.py[line:41] INFO login finished
+2020-11-15 21:21:48,696 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:21:54,380 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:21:54,381 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:22:07,641 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:22:07,642 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:22:07,642 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:22:08,647 login_view.py[line:36] INFO password is:1
+2020-11-15 21:22:09,685 login_view.py[line:39] INFO click login
+2020-11-15 21:22:10,314 login_view.py[line:41] INFO login finished
+2020-11-15 21:22:10,314 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:22:15,715 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:22:15,715 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:22:21,749 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:22:27,722 login_view.py[line:83] INFO ===no_battery_authorization===
+2020-11-15 21:22:27,722 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:22:40,757 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:22:40,760 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:22:53,961 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:22:53,961 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:22:53,961 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:22:54,447 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:22:59,958 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:22:59,960 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:23:12,048 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:23:12,048 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:23:12,048 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:23:13,063 login_view.py[line:36] INFO password is:1
+2020-11-15 21:23:14,105 login_view.py[line:39] INFO click login
+2020-11-15 21:23:14,724 login_view.py[line:41] INFO login finished
+2020-11-15 21:23:14,724 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:23:20,510 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:23:20,510 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:23:26,946 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:23:32,901 login_view.py[line:83] INFO ===no_battery_authorization===
+2020-11-15 21:23:32,901 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:23:47,195 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:23:47,198 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:23:59,539 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:23:59,540 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:23:59,540 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:24:00,049 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:24:05,565 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:24:05,567 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:24:17,766 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:24:17,766 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:24:17,766 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:24:18,762 login_view.py[line:36] INFO password is:1
+2020-11-15 21:24:19,804 login_view.py[line:39] INFO click login
+2020-11-15 21:24:20,443 login_view.py[line:41] INFO login finished
+2020-11-15 21:24:20,443 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:24:25,691 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:24:25,691 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:24:31,703 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:24:37,589 login_view.py[line:83] INFO ===no_battery_authorization===
+2020-11-15 21:24:37,589 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:24:46,858 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:24:46,860 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:24:59,277 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:24:59,278 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:24:59,278 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:25:00,244 login_view.py[line:36] INFO password is:1
+2020-11-15 21:25:01,275 login_view.py[line:39] INFO click login
+2020-11-15 21:25:01,904 login_view.py[line:41] INFO login finished
+2020-11-15 21:25:01,904 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:25:05,906 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:25:11,424 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:25:11,426 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:25:24,011 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:25:24,011 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:25:24,011 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:25:25,000 login_view.py[line:36] INFO password is:1
+2020-11-15 21:25:26,038 login_view.py[line:39] INFO click login
+2020-11-15 21:25:26,672 login_view.py[line:41] INFO login finished
+2020-11-15 21:25:26,673 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:25:32,493 login_view.py[line:52] INFO ===no_update===
+2020-11-15 21:25:32,493 login_view.py[line:64] INFO ===check_advert===
+2020-11-15 21:25:38,980 login_view.py[line:68] INFO ===no_advert===
+2020-11-15 21:25:44,139 login_view.py[line:83] INFO ===no_battery_authorization===
+2020-11-15 21:25:44,139 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:26:29,163 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:26:41,308 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:26:41,308 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:26:42,312 login_view.py[line:36] INFO password is:1
+2020-11-15 21:26:43,349 login_view.py[line:39] INFO click login
+2020-11-15 21:26:43,976 login_view.py[line:41] INFO login finished
+2020-11-15 21:26:43,976 login_view.py[line:48] INFO ===check_update===
+2020-11-15 21:27:17,857 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:27:17,858 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:27:30,027 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:27:30,027 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:27:30,027 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:27:31,033 login_view.py[line:36] INFO password is:1
+2020-11-15 21:27:32,074 login_view.py[line:39] INFO click login
+2020-11-15 21:27:35,700 login_view.py[line:42] INFO login finished
+2020-11-15 21:27:35,700 login_view.py[line:49] INFO ===check_update===
+2020-11-15 21:27:44,068 login_view.py[line:53] INFO ===no_update===
+2020-11-15 21:27:44,068 login_view.py[line:65] INFO ===check_advert===
+2020-11-15 21:27:53,060 login_view.py[line:69] INFO ===no_advert===
+2020-11-15 21:28:02,059 login_view.py[line:84] INFO ===no_battery_authorization===
+2020-11-15 21:28:08,865 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:28:08,865 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:28:10,780 login_view.py[line:36] INFO password is:1
+2020-11-15 21:28:11,819 login_view.py[line:39] INFO click login
+2020-11-15 21:28:15,441 login_view.py[line:42] INFO login finished
+2020-11-15 21:28:15,441 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:28:21,134 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:28:21,136 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:28:34,584 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:28:34,584 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:28:34,584 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:28:35,625 login_view.py[line:36] INFO password is:1
+2020-11-15 21:28:36,651 login_view.py[line:39] INFO click login
+2020-11-15 21:28:40,289 login_view.py[line:42] INFO login finished
+2020-11-15 21:28:40,289 login_view.py[line:49] INFO ===check_update===
+2020-11-15 21:28:48,728 login_view.py[line:53] INFO ===no_update===
+2020-11-15 21:28:48,729 login_view.py[line:65] INFO ===check_advert===
+2020-11-15 21:28:57,192 login_view.py[line:69] INFO ===no_advert===
+2020-11-15 21:29:05,387 login_view.py[line:84] INFO ===no_battery_authorization===
+2020-11-15 21:29:05,387 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:32:36,082 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:32:48,224 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:32:48,224 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:32:49,251 login_view.py[line:36] INFO password is:1
+2020-11-15 21:32:50,286 login_view.py[line:39] INFO click login
+2020-11-15 21:32:53,909 login_view.py[line:42] INFO login finished
+2020-11-15 21:32:53,909 login_view.py[line:49] INFO ===check_update===
+2020-11-15 21:33:02,350 login_view.py[line:53] INFO ===no_update===
+2020-11-15 21:33:02,350 login_view.py[line:65] INFO ===check_advert===
+2020-11-15 21:33:11,327 login_view.py[line:69] INFO ===no_advert===
+2020-11-15 21:33:17,938 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:33:17,938 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:33:19,878 login_view.py[line:36] INFO password is:1
+2020-11-15 21:33:20,915 login_view.py[line:39] INFO click login
+2020-11-15 21:33:24,537 login_view.py[line:42] INFO login finished
+2020-11-15 21:33:24,537 login_view.py[line:49] INFO ===check_update===
+2020-11-15 21:33:24,557 login_view.py[line:56] INFO ===click update later===
+2020-11-15 21:33:29,677 login_view.py[line:65] INFO ===check_advert===
+2020-11-15 21:33:38,860 login_view.py[line:69] INFO ===no_advert===
+2020-11-15 21:36:28,938 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:36:28,940 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:36:42,231 test_login.py[line:10] INFO ===test_login_administration===
+2020-11-15 21:36:42,231 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:36:42,232 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:36:43,231 login_view.py[line:36] INFO password is:1
+2020-11-15 21:36:44,268 login_view.py[line:39] INFO click login
+2020-11-15 21:36:48,980 login_view.py[line:42] INFO login finished
+2020-11-15 21:36:48,980 login_view.py[line:49] INFO ===check_update===
+2020-11-15 21:36:57,075 login_view.py[line:53] INFO ===no_update===
+2020-11-15 21:36:57,075 login_view.py[line:65] INFO ===check_advert===
+2020-11-15 21:37:05,672 login_view.py[line:69] INFO ===no_advert===
+2020-11-15 21:37:14,707 login_view.py[line:84] INFO ===no_battery_authorization===
+2020-11-15 21:37:20,971 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:37:20,972 login_view.py[line:33] INFO username is :15700741068
+2020-11-15 21:37:22,912 login_view.py[line:36] INFO password is:1
+2020-11-15 21:37:23,954 login_view.py[line:39] INFO click login
+2020-11-15 21:37:27,580 login_view.py[line:42] INFO login finished
+2020-11-15 21:37:27,580 login_view.py[line:49] INFO ===check_update===
+2020-11-15 21:37:27,606 login_view.py[line:56] INFO ===click update later===
+2020-11-15 21:37:32,727 login_view.py[line:65] INFO ===check_advert===
+2020-11-15 21:37:41,727 login_view.py[line:69] INFO ===no_advert===
+2020-11-15 21:37:41,727 myunit.py[line:13] INFO ===tearDown===
+2020-11-15 21:37:47,255 myunit.py[line:9] INFO ===setUp===
+2020-11-15 21:37:47,257 desired_caps.py[line:31] INFO start app...
+2020-11-15 21:38:03,648 test_login.py[line:19] INFO ===test_login_administration===
+2020-11-15 21:38:03,648 login_view.py[line:32] INFO ======logging_action======
+2020-11-15 21:38:03,648 login_view.py[line:33] INFO username is :13432457764
+2020-11-15 21:38:04,596 login_view.py[line:36] INFO password is:1
+2020-11-15 21:38:05,628 login_view.py[line:39] INFO click login
+2020-11-15 21:38:09,274 login_view.py[line:42] INFO login finished
+2020-11-15 21:38:09,274 login_view.py[line:49] INFO ===check_update===
+2020-11-15 21:38:17,889 login_view.py[line:53] INFO ===no_update===
+2020-11-15 21:38:17,889 login_view.py[line:65] INFO ===check_advert===
+2020-11-15 21:38:26,872 login_view.py[line:69] INFO ===no_advert===
+2020-11-15 21:38:35,881 login_view.py[line:84] INFO ===no_battery_authorization===
+2020-11-15 21:38:35,881 myunit.py[line:13] INFO ===tearDown===

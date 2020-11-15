@@ -1,0 +1,14 @@
+platformName: Android
+#夜神模拟器
+platformVersion: 7.1.2
+deviceName: 127.0.0.1:52025
+
+appname: com.dsl.newwiki-debug-4.1.0(5).apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+
+appPackage: com.dsl.newwiki
+appActivity: com.dsl.main.login.MainLoginActivity
+ip: 127.0.0.1
+port: 4723

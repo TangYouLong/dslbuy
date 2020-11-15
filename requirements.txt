@@ -1,0 +1,4 @@
+Appium-Python-Client==1.0.2
+PyYAML==5.3.1
+selenium==3.141.0
+urllib3==1.25.10
